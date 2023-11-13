@@ -1,0 +1,721 @@
+[
+    {
+        "title": "The Sailing Bookkeeper",
+        "blurb": "Design a logo representing sailing and financial bookkeeping. A simplified yacht and something depicting the bookkeeping field. I live on my yacht and run my financial bookkeeping business from it.",
+        "price": "A$150",
+        "deadline": "11 Nov 2023 18:06:41 UTC",
+        "requirements": {
+            "design_elements": [
+                "simplified yacht",
+                "financial bookkeeping depiction"
+            ],
+            "color_preference": "blue and white",
+            "additional_information": "Photos of yacht available for inspiration. Other colours will be considered."
+        },
+        "full_text": "title is 'The Sailing Bookkeeper'; blurb is 'Design a logo representing sailing and financial bookkeeping. A simplified yacht and something depicting the bookkeeping field. I live on my yacht and run my financial bookkeeping business from it.'; price is 'A$150'; deadline is '11 Nov 2023 18:06:41 UTC'; requirements design_elements is 'simplified yacht, financial bookkeeping depiction'; requirements color_preference is 'blue and white'; requirements additional_information is 'Photos of yacht available for inspiration. Other colours will be considered.'"
+    },
+    {
+        "title": "Dr R V Fitness",
+        "blurb": "Logo for online gym coach who has a medical background. The logo should attract new customers, be suitable for use on merchandise, and appeal to professionals like doctors and lawyers. The design should include simple typography with the text 'Dr. R V Fitness'.",
+        "price": "\u00a3190",
+        "deadline": "11 Nov 2023 14:45:33 UTC",
+        "requirements": {
+            "logo_text": "Dr R V Fitness",
+            "target_market": [
+                "Fitness",
+                "Professionals"
+            ],
+            "industry": "Fitness",
+            "logo_style": "Wordmark Logo",
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "color_preference": "Designer to choose",
+            "additional_information": "Logo to be used on merchandise, appealing to high-level professionals."
+        },
+        "full_text": "title is 'Dr R V Fitness'; blurb is 'Logo for online gym coach who has a medical background. The logo should attract new customers, be suitable for use on merchandise, and appeal to professionals like doctors and lawyers. The design should include simple typography with the text 'Dr. R V Fitness'.'; price is '\u00a3190'; deadline is '11 Nov 2023 14:45:33 UTC'; requirements logo_text is 'Dr R V Fitness'; requirements target_market is 'Fitness, Professionals'; requirements industry is 'Fitness'; requirements logo_style is 'Wordmark Logo'; requirements design_characteristics elegant_bold is 'Elegant to Bold'; requirements design_characteristics playful_serious is 'Playful to Serious'; requirements design_characteristics traditional_modern is 'Traditional to Modern'; requirements design_characteristics personable_professional is 'Personable to Professional'; requirements design_characteristics feminine_masculine is 'Feminine to Masculine'; requirements design_characteristics colorful_conservative is 'Colorful to Conservative'; requirements design_characteristics economical_upmarket is 'Economical to Upmarket'; requirements color_preference is 'Designer to choose'; requirements additional_information is 'Logo to be used on merchandise, appealing to high-level professionals.'"
+    },
+    {
+        "title": "New Family Medicine clinic needs logo design",
+        "blurb": "Primary care physician transitioning to a Direct Primary Care (DPC) model, seeking a hometown, subtly elegant logo with softer colors for the new practice. DPC offers affordable, personalized healthcare through a monthly subscription, with benefits like extended appointments, same/next day appointments, and easy access to the doctor.",
+        "price": "US$150",
+        "deadline": "11 Nov 2023 14:16:41 UTC",
+        "requirements": {
+            "logo_text": "Harmony Health DPC",
+            "design_aesthetic": {
+                "look": "hometown, subtly elegant",
+                "color_scheme": "softer colors"
+            },
+            "business_model": "Direct Primary Care (DPC)",
+            "additional_information": {
+                "appointment_length": "30-60 min",
+                "appointment_availability": "same or next day",
+                "communication_methods": [
+                    "Telehealth",
+                    "email",
+                    "texting"
+                ],
+                "relationship": "personalized, comprehensive healthcare"
+            }
+        },
+        "full_text": "title is 'New Family Medicine clinic needs logo design'; blurb is 'Primary care physician transitioning to a Direct Primary Care (DPC) model, seeking a hometown, subtly elegant logo with softer colors for the new practice. DPC offers affordable, personalized healthcare through a monthly subscription, with benefits like extended appointments, same/next day appointments, and easy access to the doctor.'; price is 'US$150'; deadline is '11 Nov 2023 14:16:41 UTC'; requirements logo_text is 'Harmony Health DPC'; requirements design_aesthetic look is 'hometown, subtly elegant'; requirements design_aesthetic color_scheme is 'softer colors'; requirements business_model is 'Direct Primary Care (DPC)'; requirements additional_information appointment_length is '30-60 min'; requirements additional_information appointment_availability is 'same or next day'; requirements additional_information communication_methods is 'Telehealth, email, texting'; requirements additional_information relationship is 'personalized, comprehensive healthcare'"
+    },
+    {
+        "title": "Diesel Repair, Performance Transmission and CNC Shop new logo",
+        "blurb": "Seeking a new business logo to reflect the shift in services to light duty diesel truck repair, performance transmission building, and CNC plasma cutting. Desired elements include a specific model of GMC truck, an Allison 1000 transmission, and a plasma cutter torch, while adhering to a style similar to the current shop logo.",
+        "price": "US$300",
+        "deadline": "10 Nov 2023 17:33:50 UTC",
+        "requirements": {
+            "logo_text": "Jr's Garage. Diesel Repair, Performance Transmissions & CNC Plasma Cutting",
+            "target_market": [
+                "Light duty diesel truck owners",
+                "Performance enthusiasts"
+            ],
+            "industry": "Diesel pick up truck repair, performance transmission building, cnc plasma cutting/fabrication/welding",
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "must_have": [
+                "2015/2016 GMC Denali 3500HD crew cab 8' bed dually",
+                "Allison 1000 transmission",
+                "Plasma cutter torch"
+            ],
+            "should_not_have": "Nothing with the color red",
+            "printing_requirements": "Easy to print on shirts and decals with minimal colors",
+            "file_format": "JPG",
+            "reference_file": "Shop Logo",
+            "additional_information": "Current shop logo liked and should be used as a reference for style"
+        },
+        "full_text": "title is 'Diesel Repair, Performance Transmission and CNC Shop new logo'; blurb is 'Seeking a new business logo to reflect the shift in services to light duty diesel truck repair, performance transmission building, and CNC plasma cutting. Desired elements include a specific model of GMC truck, an Allison 1000 transmission, and a plasma cutter torch, while adhering to a style similar to the current shop logo.'; price is 'US$300'; deadline is '10 Nov 2023 17:33:50 UTC'; requirements logo_text is 'Jr's Garage. Diesel Repair, Performance Transmissions & CNC Plasma Cutting'; requirements target_market is 'Light duty diesel truck owners, Performance enthusiasts'; requirements industry is 'Diesel pick up truck repair, performance transmission building, cnc plasma cutting/fabrication/welding'; requirements design_characteristics elegant_bold is 'Elegant to Bold'; requirements design_characteristics playful_serious is 'Playful to Serious'; requirements design_characteristics traditional_modern is 'Traditional to Modern'; requirements design_characteristics personable_professional is 'Personable to Professional'; requirements design_characteristics feminine_masculine is 'Feminine to Masculine'; requirements design_characteristics colorful_conservative is 'Colorful to Conservative'; requirements design_characteristics economical_upmarket is 'Economical to Upmarket'; requirements must_have is '2015/2016 GMC Denali 3500HD crew cab 8' bed dually, Allison 1000 transmission, Plasma cutter torch'; requirements should_not_have is 'Nothing with the color red'; requirements printing_requirements is 'Easy to print on shirts and decals with minimal colors'; requirements file_format is 'JPG'; requirements reference_file is 'Shop Logo'; requirements additional_information is 'Current shop logo liked and should be used as a reference for style'"
+    },
+    {
+        "title": "4 product logos with text and graphic",
+        "blurb": "SmartMLS, a multiple listing service, needs branding for four of its products: SmartMLS Sign, SmartMLS Offers, SmartMLS Stats, and SmartMLS Tax. Each product serves a unique function within the real estate listing and data management realm. The logos should maintain consistency with SmartMLS's existing branding, be unique, eye-catching, and provided in specified file formats.",
+        "price": "US$240",
+        "deadline": "06 Nov 2023 14:25:07 UTC",
+        "requirements": {
+            "product_names": [
+                "SmartMLS Sign",
+                "SmartMLS Offers",
+                "SmartMLS Stats",
+                "SmartMLS Tax"
+            ],
+            "description": {
+                "SmartMLS Sign": "Digital document tool for remote signing.",
+                "SmartMLS Offers": "Program for managing home purchase offers.",
+                "SmartMLS Stats": "Statistical program providing analytics with graphs, charts, and insights.",
+                "SmartMLS Tax": "Program for searching municipal property tax data and property information."
+            },
+            "design_consistency": "Consistency in font type and design with SmartMLS's existing branding.",
+            "logo_requirement": "SmartMLS portion has to be the existing logo.",
+            "graphic_requirement": "Eye-catching, identifiable, and unique graphic; icon could be used separately or alongside text graphic.",
+            "file_formats": [
+                "jpeg",
+                "png",
+                "psd",
+                "ai",
+                "eps"
+            ],
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "additional_information": {
+                "website": "www.smartmls.com",
+                "reference_file": "ColorLandscape_300dpi"
+            }
+        },
+        "full_text": "title is '4 product logos with text and graphic'; blurb is 'SmartMLS, a multiple listing service, needs branding for four of its products: SmartMLS Sign, SmartMLS Offers, SmartMLS Stats, and SmartMLS Tax. Each product serves a unique function within the real estate listing and data management realm. The logos should maintain consistency with SmartMLS's existing branding, be unique, eye-catching, and provided in specified file formats.'; price is 'US$240'; deadline is '06 Nov 2023 14:25:07 UTC'; requirements product_names is 'SmartMLS Sign, SmartMLS Offers, SmartMLS Stats, SmartMLS Tax'; requirements description SmartMLS Sign is 'Digital document tool for remote signing.'; requirements description SmartMLS Offers is 'Program for managing home purchase offers.'; requirements description SmartMLS Stats is 'Statistical program providing analytics with graphs, charts, and insights.'; requirements description SmartMLS Tax is 'Program for searching municipal property tax data and property information.'; requirements design_consistency is 'Consistency in font type and design with SmartMLS's existing branding.'; requirements logo_requirement is 'SmartMLS portion has to be the existing logo.'; requirements graphic_requirement is 'Eye-catching, identifiable, and unique graphic; icon could be used separately or alongside text graphic.'; requirements file_formats is 'jpeg, png, psd, ai, eps'; requirements design_characteristics elegant_bold is 'Elegant to Bold'; requirements design_characteristics playful_serious is 'Playful to Serious'; requirements design_characteristics traditional_modern is 'Traditional to Modern'; requirements design_characteristics personable_professional is 'Personable to Professional'; requirements design_characteristics feminine_masculine is 'Feminine to Masculine'; requirements design_characteristics colorful_conservative is 'Colorful to Conservative'; requirements design_characteristics economical_upmarket is 'Economical to Upmarket'; requirements additional_information website is 'www.smartmls.com'; requirements additional_information reference_file is 'ColorLandscape_300dpi'"
+    },
+    {
+        "title": "My Restoration Coach",
+        "blurb": "A retired General Contractor with 35 years of experience in property restoration services for commercial property owners aims to educate and guide other contractors to build, market, and service their own portfolios by providing 'cost effective building solutions'. The target market includes contractors, with a focus on storm restoration services for commercial properties.",
+        "price": "US$150",
+        "deadline": "10 Nov 2023 07:29:59 UTC",
+        "requirements": {
+            "logo_text": "My Restoration Coach",
+            "target_market": [
+                "Contractors"
+            ],
+            "industry": "Storm Restoration Services For Commercial Properties",
+            "logo_styles": [
+                "Pictorial/Combination Logo",
+                "Character Logo"
+            ],
+            "font_styles": [
+                "Serif",
+                "Sans Serif"
+            ],
+            "color_palette": [
+                "0094D4",
+                "00A9DD",
+                "6FCCEA",
+                "C7EBF8",
+                "E9F6FB",
+                "59FF00",
+                "82FF00",
+                "B8FF75",
+                "E3FFCB",
+                "F4FFEA",
+                "FFF300",
+                "FFF600",
+                "FEFA6F",
+                "FFFEC7",
+                "FFFEE8",
+                "F0912C",
+                "F2A743",
+                "F7CA91",
+                "FBE8D2",
+                "FDF5EE"
+            ],
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "must_have": [
+                "A clean logo with clean font"
+            ],
+            "nice_to_have": [
+                "A picture of a distinguished teacher inside of a round logo with the lettering around the circle"
+            ],
+            "should_not_have": [
+                "Blurry lines or font"
+            ],
+            "file_formats": [
+                "JPEG"
+            ],
+            "reference_file": "75837299-F87E-45FA-A2F1-5F801EA9ED49_1_102_o",
+            "additional_information": {
+                "website": "www.crnpros.com",
+                "dba_entity": "Commercial Restoration Network",
+                "update": "The name of my teaching platform is called: My Restoration Coach",
+                "update_date": "Saturday, 04 November 2023"
+            }
+        },
+        "full_text": "title is 'My Restoration Coach'; blurb is 'A retired General Contractor with 35 years of experience in property restoration services for commercial property owners aims to educate and guide other contractors to build, market, and service their own portfolios by providing 'cost effective building solutions'. The target market includes contractors, with a focus on storm restoration services for commercial properties.'; price is 'US$150'; deadline is '10 Nov 2023 07:29:59 UTC'; requirements logo_text is 'My Restoration Coach'; requirements target_market is 'Contractors'; requirements industry is 'Storm Restoration Services For Commercial Properties'; requirements logo_styles is 'Pictorial/Combination Logo, Character Logo'; requirements font_styles is 'Serif, Sans Serif'; requirements color_palette is '0094D4, 00A9DD, 6FCCEA, C7EBF8, E9F6FB, 59FF00, 82FF00, B8FF75, E3FFCB, F4FFEA, FFF300, FFF600, FEFA6F, FFFEC7, FFFEE8, F0912C, F2A743, F7CA91, FBE8D2, FDF5EE'; requirements design_characteristics elegant_bold is 'Elegant to Bold'; requirements design_characteristics playful_serious is 'Playful to Serious'; requirements design_characteristics traditional_modern is 'Traditional to Modern'; requirements design_characteristics personable_professional is 'Personable to Professional'; requirements design_characteristics feminine_masculine is 'Feminine to Masculine'; requirements design_characteristics colorful_conservative is 'Colorful to Conservative'; requirements design_characteristics economical_upmarket is 'Economical to Upmarket'; requirements must_have is 'A clean logo with clean font'; requirements nice_to_have is 'A picture of a distinguished teacher inside of a round logo with the lettering around the circle'; requirements should_not_have is 'Blurry lines or font'; requirements file_formats is 'JPEG'; requirements reference_file is '75837299-F87E-45FA-A2F1-5F801EA9ED49_1_102_o'; requirements additional_information website is 'www.crnpros.com'; requirements additional_information dba_entity is 'Commercial Restoration Network'; requirements additional_information update is 'The name of my teaching platform is called: My Restoration Coach'; requirements additional_information update_date is 'Saturday, 04 November 2023'"
+    },
+    {
+        "title": "Quality Connects Logo and Website Design",
+        "blurb": "I\u2019m looking for a logo and website design for a new brand I\u2019m doing called Quality Connects or \u201cQC\u201d. Tagline is \u201cQuality Connects every community across all ages and stages.",
+        "price": "1st place: US$260, Participation payments x 4: US$10, Total: US$300",
+        "deadline": "11 Nov 2023 20:12:33 UTC",
+        "requirements": {
+            "logo_text": "QC",
+            "target_market": [
+                "All communities",
+                "All ages and stages"
+            ],
+            "industry": "Brand and Community",
+            "logo_style": "Logo and Website Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The tagline is 'Quality Connects every community across all ages and stages.'"
+        },
+        "full_text": "title is 'Quality Connects Logo and Website Design'; blurb is 'I\u2019m looking for a logo and website design for a new brand I\u2019m doing called Quality Connects or \u201cQC\u201d. Tagline is \u201cQuality Connects every community across all ages and stages.'; price is '1st place: US$260, Participation payments x 4: US$10, Total: US$300'; deadline is '11 Nov 2023 20:12:33 UTC'; requirements logo_text is 'QC'; requirements target_market is 'All communities, All ages and stages'; requirements industry is 'Brand and Community'; requirements logo_style is 'Logo and Website Design'; requirements color_preference is 'Designer to choose'; requirements additional_information is 'The tagline is 'Quality Connects every community across all ages and stages.''"
+    },
+    {
+        "title": "Men\u2019s Addiction Treatment Sober Living Home Logo Design",
+        "blurb": "I need a logo including Excalibur (sword in the stone) and a rising sun which shines light on said sword. The sun being partially black represents the alchemical symbol of the black sun, often it is our darkest moments that bring the light.",
+        "price": "Budget: US$150",
+        "deadline": "6 days left",
+        "requirements": {
+            "logo_text": "The Landing Recovery Home",
+            "target_market": [
+                "Men in recovery from addiction"
+            ],
+            "industry": "Addiction Treatment",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Black or extra dark gray and yellowish orange, additional use of black and extra dark gray for contrast if needed.",
+            "additional_information": "The sun represents the dawning light of consciousness shining on the hidden sword, symbolizing divine power accessible through inner orientation. The sword in the stone represents divine power that only the 'rightful king' can draw. This logo is for a Men\u2019s sober living home."
+        },
+        "full_text": "title is 'Men\u2019s Addiction Treatment Sober Living Home Logo Design'; blurb is 'I need a logo including Excalibur (sword in the stone) and a rising sun which shines light on said sword. The sun being partially black represents the alchemical symbol of the black sun, often it is our darkest moments that bring the light.'; price is 'Budget: US$150'; deadline is '6 days left'; requirements logo_text is 'The Landing Recovery Home'; requirements target_market is 'Men in recovery from addiction'; requirements industry is 'Addiction Treatment'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Black or extra dark gray and yellowish orange, additional use of black and extra dark gray for contrast if needed.'; requirements additional_information is 'The sun represents the dawning light of consciousness shining on the hidden sword, symbolizing divine power accessible through inner orientation. The sword in the stone represents divine power that only the 'rightful king' can draw. This logo is for a Men\u2019s sober living home.'"
+    },
+    {
+        "title": "Alluring Logo Design for Hospitality/Creative",
+        "blurb": "I am in need of two separate logo designs. One is for a hospitality group specializing in fun restaurant/bar/boutique hotel concepts. The other logo for an engaging Creative agency that specializes in entertainment, hospitality, and tech. Spa Day would be the red flag, yacht club/country club inspiration. The Uno m\u00e1s logo inspiration has a slight fun minimal vintage classy masculine appearance.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "06 Nov 2023 23:26:32 UTC",
+        "requirements": {
+            "logo_text": [
+                "Spa Day",
+                "Uno M\u00e1s"
+            ],
+            "target_market": [
+                "Uno M\u00e1s (fun restaurant hospitality group)",
+                "Spa Day (Creative Agency)"
+            ],
+            "industry": "Hospitality/Creative Agency",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The Spa Day logo should have a red flag, yacht club/country club inspiration. The Uno M\u00e1s logo should have a fun, minimal, vintage, classy, and masculine appearance."
+        },
+        "full_text": "title is 'Alluring Logo Design for Hospitality/Creative'; blurb is 'I am in need of two separate logo designs. One is for a hospitality group specializing in fun restaurant/bar/boutique hotel concepts. The other logo for an engaging Creative agency that specializes in entertainment, hospitality, and tech. Spa Day would be the red flag, yacht club/country club inspiration. The Uno m\u00e1s logo inspiration has a slight fun minimal vintage classy masculine appearance.'; price is '1st place: US$150, Total: US$150'; deadline is '06 Nov 2023 23:26:32 UTC'; requirements logo_text is 'Spa Day, Uno M\u00e1s'; requirements target_market is 'Uno M\u00e1s (fun restaurant hospitality group), Spa Day (Creative Agency)'; requirements industry is 'Hospitality/Creative Agency'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Designer to choose'; requirements additional_information is 'The Spa Day logo should have a red flag, yacht club/country club inspiration. The Uno M\u00e1s logo should have a fun, minimal, vintage, classy, and masculine appearance.'"
+    },
+    {
+        "title": "cleanX Logo Design",
+        "blurb": "Company is starting a new project, cleanX. We want to create a logo that says cleanX by SiTE2GYM. It should use a new logo of cleanX as well as the existing logo in small underneath or on the side of it that says 'by SiTE2GYM logo.'",
+        "price": "1st place: C$150, Total: C$150",
+        "deadline": "10 Nov 2023 21:07:39 UTC",
+        "requirements": {
+            "logo_text": "cleanX",
+            "target_market": [
+                "Project for SiTE2GYM"
+            ],
+            "industry": "New Project",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The logo should incorporate 'cleanX' and 'by SiTE2GYM logo'."
+        },
+        "full_text": "title is 'cleanX Logo Design'; blurb is 'Company is starting a new project, cleanX. We want to create a logo that says cleanX by SiTE2GYM. It should use a new logo of cleanX as well as the existing logo in small underneath or on the side of it that says 'by SiTE2GYM logo.''; price is '1st place: C$150, Total: C$150'; deadline is '10 Nov 2023 21:07:39 UTC'; requirements logo_text is 'cleanX'; requirements target_market is 'Project for SiTE2GYM'; requirements industry is 'New Project'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Designer to choose'; requirements additional_information is 'The logo should incorporate 'cleanX' and 'by SiTE2GYM logo'.'"
+    },
+    {
+        "title": "Willy Wilson Flats Logo Design",
+        "blurb": "Need a logo for an urban living site in Madison, WI. The site includes 30 apartments and 6 vibrant retail spaces. The site consists of two large, old, brick buildings and two 10-unit new construction apartment buildings. It is located in the heart of a vibrant neighborhood filled with consistent activity and young, energetic, free-thinking individuals. The neighborhood has a 'funky' vibe to it, and I'd like that to be reflected in the logo. Included in much of the future signage will be 'Professionally Managed by Grindstone Property Management'. The logo for Grindstone Property Management is attached for your reference/review. The addresses of the properties that we will want signage for are 1207 E Wilson St, 1217 E Wilson St, 1216 Williamson St, 1220 Williamson St (all located in Madison, WI). Our website that includes additional photos of all buildings is www.grindstonemanagement.com.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "06 Nov 2023 19:00:03 UTC",
+        "requirements": {
+            "logo_text": "Willy Wilson Flats",
+            "target_market": [
+                "Young, energetic, free-thinking"
+            ],
+            "industry": "Apartment homes & high traffic urban retail",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The logo should reflect the 'funky' vibe of the neighborhood and also include 'Professionally Managed by Grindstone Property Management'."
+        },
+        "full_text": "title is 'Willy Wilson Flats Logo Design'; blurb is 'Need a logo for an urban living site in Madison, WI. The site includes 30 apartments and 6 vibrant retail spaces. The site consists of two large, old, brick buildings and two 10-unit new construction apartment buildings. It is located in the heart of a vibrant neighborhood filled with consistent activity and young, energetic, free-thinking individuals. The neighborhood has a 'funky' vibe to it, and I'd like that to be reflected in the logo. Included in much of the future signage will be 'Professionally Managed by Grindstone Property Management'. The logo for Grindstone Property Management is attached for your reference/review. The addresses of the properties that we will want signage for are 1207 E Wilson St, 1217 E Wilson St, 1216 Williamson St, 1220 Williamson St (all located in Madison, WI). Our website that includes additional photos of all buildings is www.grindstonemanagement.com.'; price is '1st place: US$150, Total: US$150'; deadline is '06 Nov 2023 19:00:03 UTC'; requirements logo_text is 'Willy Wilson Flats'; requirements target_market is 'Young, energetic, free-thinking'; requirements industry is 'Apartment homes & high traffic urban retail'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Designer to choose'; requirements additional_information is 'The logo should reflect the 'funky' vibe of the neighborhood and also include 'Professionally Managed by Grindstone Property Management'.'"
+    },
+    {
+        "title": "Marketing Agency Looking for a Logo Refresh",
+        "blurb": "We are a full service marketing and advertising firm looking for some fresh and new ideas for our new logo design. We want to update our current logo to something more current, trendsetting, impactful, and iconic.",
+        "price": {
+            "budget": "C$390",
+            "1st_place": "C$260",
+            "participation_payments": [
+                {
+                    "x3": "C$30"
+                },
+                {
+                    "x4": "C$10"
+                }
+            ],
+            "total": "C$390"
+        },
+        "deadline": "08 Nov 2023 17:45:23 UTC",
+        "requirements": {
+            "must_have": [
+                "Simple",
+                "Smart",
+                "Bold",
+                "Editorial",
+                "Trustworthy",
+                "Iconic",
+                "Black and White for id lettermark",
+                "Up to designer for Integrated Marketing",
+                "Both vertical and horizontal versions"
+            ],
+            "nice_to_have": [
+                "Usage of some form of the old logo to maintain brand recognition (i.e., fingerprint becomes dot of the 'i' in id lettermark logo)",
+                "Try using lower case 'id' as letter mark"
+            ],
+            "should_not_have": [
+                "Not italic",
+                "No bright colours",
+                "Not dated or tired",
+                "Boring",
+                "Tired and typical ai generic designs"
+            ]
+        },
+        "logo_details": {
+            "target_markets": [
+                "New home developers",
+                "Not for profit organizations",
+                "Healthcare",
+                "Real estate companies",
+                "Pharma"
+            ],
+            "industry": "Marketing, Advertising, Web + App Development, social + digital media full service agency",
+            "logo_text": "id (lettermark) Integrated Marketing or INTEGRATED MARKETING",
+            "logo_styles_of_interest": [
+                "Wordmark Logo",
+                "Lettermark Logo"
+            ],
+            "font_styles_to_use": [
+                "Serif",
+                "bold serif font"
+            ],
+            "colors": "Designer to choose only greyscale colors for use in the design",
+            "look_and_feel": {
+                "elegant_bold": true,
+                "playful_serious": true,
+                "traditional_modern": true,
+                "personable_professional": true,
+                "feminine_masculine": true,
+                "colorful_conservative": true,
+                "economical_upmarket": true
+            }
+        },
+        "project_upgrades": {
+            "bundled_projects": [
+                {
+                    "business_card_design": "C$39"
+                },
+                {
+                    "stationery_design": "C$49"
+                }
+            ]
+        },
+        "full_text": "title is 'Marketing Agency Looking for a Logo Refresh'; blurb is 'We are a full service marketing and advertising firm looking for some fresh and new ideas for our new logo design. We want to update our current logo to something more current, trendsetting, impactful, and iconic.'; price budget is 'C$390'; price 1st_place is 'C$260'; price participation_payments is '{'x3': 'C$30'}, {'x4': 'C$10'}'; price total is 'C$390'; deadline is '08 Nov 2023 17:45:23 UTC'; requirements must_have is 'Simple, Smart, Bold, Editorial, Trustworthy, Iconic, Black and White for id lettermark, Up to designer for Integrated Marketing, Both vertical and horizontal versions'; requirements nice_to_have is 'Usage of some form of the old logo to maintain brand recognition (i.e., fingerprint becomes dot of the 'i' in id lettermark logo), Try using lower case 'id' as letter mark'; requirements should_not_have is 'Not italic, No bright colours, Not dated or tired, Boring, Tired and typical ai generic designs'; logo_details target_markets is 'New home developers, Not for profit organizations, Healthcare, Real estate companies, Pharma'; logo_details industry is 'Marketing, Advertising, Web + App Development, social + digital media full service agency'; logo_details logo_text is 'id (lettermark) Integrated Marketing or INTEGRATED MARKETING'; logo_details logo_styles_of_interest is 'Wordmark Logo, Lettermark Logo'; logo_details font_styles_to_use is 'Serif, bold serif font'; logo_details colors is 'Designer to choose only greyscale colors for use in the design'; logo_details look_and_feel elegant_bold is 'True'; logo_details look_and_feel playful_serious is 'True'; logo_details look_and_feel traditional_modern is 'True'; logo_details look_and_feel personable_professional is 'True'; logo_details look_and_feel feminine_masculine is 'True'; logo_details look_and_feel colorful_conservative is 'True'; logo_details look_and_feel economical_upmarket is 'True'; project_upgrades bundled_projects is '{'business_card_design': 'C$39'}, {'stationery_design': 'C$49'}'"
+    },
+    {
+        "title": "Logo for new shipping company",
+        "blurb": "The full name of the company is CentrePoint Bulk Carriers. Most likely the logo will only show CentrePoint. The company is open to suggestions for the logo design which is common in the shipping industry, often incorporating elements like flags.",
+        "price": {
+            "budget": "US$390",
+            "1st_place": "US$260",
+            "participation_payments": [
+                {
+                    "x3": "US$30"
+                },
+                {
+                    "x4": "US$10"
+                }
+            ],
+            "total": "US$390"
+        },
+        "deadline": "08 Nov 2023 18:03:37 UTC",
+        "requirements": {
+            "logo_text": "CentrePoint (open to suggestions though)",
+            "inspiration_links": [
+                "https://www.easternbulk.com/",
+                "https://www.maersk.com/",
+                "https://www.westernbulk.com/who-we-are/"
+            ]
+        },
+        "design_counts": {
+            "number_of_designs": "513 designs",
+            "number_of_designers": "206 designers"
+        },
+        "language": "English",
+        "full_text": "title is 'Logo for new shipping company'; blurb is 'The full name of the company is CentrePoint Bulk Carriers. Most likely the logo will only show CentrePoint. The company is open to suggestions for the logo design which is common in the shipping industry, often incorporating elements like flags.'; price budget is 'US$390'; price 1st_place is 'US$260'; price participation_payments is '{'x3': 'US$30'}, {'x4': 'US$10'}'; price total is 'US$390'; deadline is '08 Nov 2023 18:03:37 UTC'; requirements logo_text is 'CentrePoint (open to suggestions though)'; requirements inspiration_links is 'https://www.easternbulk.com/, https://www.maersk.com/, https://www.westernbulk.com/who-we-are/'; design_counts number_of_designs is '513 designs'; design_counts number_of_designers is '206 designers'; language is 'English'"
+    },
+    {
+        "title": "Logo for a consultancy start-up (process optimization, digitalization/IT)",
+        "blurb": "The logo is for a consultancy start-up with a focus on process optimization and digitalization/IT. The company supports transformation projects for big companies, such as banks, by implementing new IT systems and processes.",
+        "price": {
+            "budget": "\u20ac310",
+            "1st_place": "\u20ac230",
+            "participation_payments": [
+                {
+                    "x8": "\u20ac10"
+                }
+            ],
+            "total": "\u20ac310"
+        },
+        "deadline": "08 Nov 2023 20:33:45 UTC",
+        "requirements": {
+            "logo_text": "FUTURE MODE",
+            "detailed_requirements_doc": "Requirements Future Mode - Wednesday, November 1, 2023"
+        },
+        "design_counts": {
+            "number_of_designs": "327 designs",
+            "number_of_designers": "111 designers"
+        },
+        "language": "English",
+        "full_text": "title is 'Logo for a consultancy start-up (process optimization, digitalization/IT)'; blurb is 'The logo is for a consultancy start-up with a focus on process optimization and digitalization/IT. The company supports transformation projects for big companies, such as banks, by implementing new IT systems and processes.'; price budget is '\u20ac310'; price 1st_place is '\u20ac230'; price participation_payments is '{'x8': '\u20ac10'}'; price total is '\u20ac310'; deadline is '08 Nov 2023 20:33:45 UTC'; requirements logo_text is 'FUTURE MODE'; requirements detailed_requirements_doc is 'Requirements Future Mode - Wednesday, November 1, 2023'; design_counts number_of_designs is '327 designs'; design_counts number_of_designers is '111 designers'; language is 'English'"
+    },
+    {
+        "title": "Event Rental Company in Los Angeles CA. Logo Re-design",
+        "blurb": "An event rental company in Los Angeles, CA is looking for a logo redesign that is minimalist, memorable, and versatile, incorporating the blue color and potentially the Helvetica Sans Serif font.",
+        "budget": "US$150",
+        "time_remaining": "3 days left",
+        "current_designs": "95 designs",
+        "designers_participating": "56 designers",
+        "design_brief": {
+            "background": "The company provides distinctive event equipment rentals primarily in Los Angeles CA, servicing events such as parties, galas, sporting events.",
+            "target_market": "Event industry professionals, brides, schools, top 20% clientele in Los Angeles.",
+            "requirements": {
+                "must_have": "Logo redefined, may not contain the company name",
+                "nice_to_have": "Logo with a visual image that is easily understood and recognized",
+                "should_not_have": "Crown, balloons, or any image of equipment"
+            },
+            "logo_text": "Del Rey Party Rentals",
+            "logo_styles_of_interest": {
+                "pictorial_combination": "A real-world object (optional text)",
+                "abstract_logo": "Conceptual / symbolic (optional text)"
+            },
+            "look_and_feel": {
+                "elegant": "Elegant",
+                "bold": "Bold",
+                "playful": "Playful",
+                "serious": "Serious",
+                "traditional": "Traditional",
+                "modern": "Modern",
+                "personable": "Personable",
+                "professional": "Professional",
+                "feminine": "Feminine",
+                "masculine": "Masculine",
+                "colorful": "Colorful",
+                "conservative": "Conservative",
+                "economical": "Economical",
+                "upmarket": "Upmarket"
+            }
+        },
+        "files": [
+            {
+                "file_name": "Del Rey Logo (5) (3).png",
+                "date": "Wednesday, November 1, 2023"
+            },
+            {
+                "file_name": "Screenshot 2023-11-01 161843.png",
+                "date": "Wednesday, November 1, 2023"
+            }
+        ],
+        "payments": {
+            "1st_place": "US$150",
+            "total": "US$150"
+        },
+        "project_deadline": "08 Nov 2023 23:54:44 UTC",
+        "language": "English",
+        "full_text": "title is 'Event Rental Company in Los Angeles CA. Logo Re-design'; blurb is 'An event rental company in Los Angeles, CA is looking for a logo redesign that is minimalist, memorable, and versatile, incorporating the blue color and potentially the Helvetica Sans Serif font.'; budget is 'US$150'; time_remaining is '3 days left'; current_designs is '95 designs'; designers_participating is '56 designers'; design_brief background is 'The company provides distinctive event equipment rentals primarily in Los Angeles CA, servicing events such as parties, galas, sporting events.'; design_brief target_market is 'Event industry professionals, brides, schools, top 20% clientele in Los Angeles.'; design_brief requirements must_have is 'Logo redefined, may not contain the company name'; design_brief requirements nice_to_have is 'Logo with a visual image that is easily understood and recognized'; design_brief requirements should_not_have is 'Crown, balloons, or any image of equipment'; design_brief logo_text is 'Del Rey Party Rentals'; design_brief logo_styles_of_interest pictorial_combination is 'A real-world object (optional text)'; design_brief logo_styles_of_interest abstract_logo is 'Conceptual / symbolic (optional text)'; design_brief look_and_feel elegant is 'Elegant'; design_brief look_and_feel bold is 'Bold'; design_brief look_and_feel playful is 'Playful'; design_brief look_and_feel serious is 'Serious'; design_brief look_and_feel traditional is 'Traditional'; design_brief look_and_feel modern is 'Modern'; design_brief look_and_feel personable is 'Personable'; design_brief look_and_feel professional is 'Professional'; design_brief look_and_feel feminine is 'Feminine'; design_brief look_and_feel masculine is 'Masculine'; design_brief look_and_feel colorful is 'Colorful'; design_brief look_and_feel conservative is 'Conservative'; design_brief look_and_feel economical is 'Economical'; design_brief look_and_feel upmarket is 'Upmarket'; files is '{'file_name': 'Del Rey Logo (5) (3).png', 'date': 'Wednesday, November 1, 2023'}, {'file_name': 'Screenshot 2023-11-01 161843.png', 'date': 'Wednesday, November 1, 2023'}'; payments 1st_place is 'US$150'; payments total is 'US$150'; project_deadline is '08 Nov 2023 23:54:44 UTC'; language is 'English'"
+    },
+    {
+        "site": "DesignCrowd",
+        "project_type": "Logo & Colour Palette",
+        "project_title": "Logo & Colour Palette for Video Guestbook Service",
+        "budget": "A$150",
+        "time_remaining": "3 days left",
+        "current_submissions": {
+            "designs": 100,
+            "designers": 61
+        },
+        "brief": {
+            "service_description": "A Video Guestbook service targeting special events like Weddings, Birthdays, Baby Showers, Coming of age celebrations, and Corporate events.",
+            "service_features": "Capturing video messages from guests at events through a recording device.",
+            "design_qualities": {
+                "clean": true,
+                "clever": true,
+                "modern": true,
+                "sophisticated": true,
+                "eye_catching": true,
+                "readable_text": true
+            },
+            "logo_text": "Guest Wishes"
+        },
+        "payment_details": {
+            "1st_place": "A$150",
+            "total": "A$150"
+        },
+        "deadline": "09 Nov 2023 00:55:06 UTC",
+        "language": "English",
+        "full_text": "site is 'DesignCrowd'; project_type is 'Logo & Colour Palette'; project_title is 'Logo & Colour Palette for Video Guestbook Service'; budget is 'A$150'; time_remaining is '3 days left'; current_submissions designs is '100'; current_submissions designers is '61'; brief service_description is 'A Video Guestbook service targeting special events like Weddings, Birthdays, Baby Showers, Coming of age celebrations, and Corporate events.'; brief service_features is 'Capturing video messages from guests at events through a recording device.'; brief design_qualities clean is 'True'; brief design_qualities clever is 'True'; brief design_qualities modern is 'True'; brief design_qualities sophisticated is 'True'; brief design_qualities eye_catching is 'True'; brief design_qualities readable_text is 'True'; brief logo_text is 'Guest Wishes'; payment_details 1st_place is 'A$150'; payment_details total is 'A$150'; deadline is '09 Nov 2023 00:55:06 UTC'; language is 'English'"
+    },
+    {
+        "title": "50 Years Edition Logo Update",
+        "blurb": "Our company is turning 50 years old in 2024. We would like to add a component to our existing logo highlighting '50 years'. Ideally, this would be an addition to the current logo, not a complete redesign, but we're open to some creativity! We would like to have this logo ready for an event on November 20th, so turnaround will be quick!",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 17:38:10 UTC",
+        "requirements": {
+            "logo_text": [
+                "50 Years",
+                "Celebrating 50 years"
+            ],
+            "target_market": [],
+            "industry": "Construction",
+            "logo_style": "Logo Update",
+            "design_characteristics": {
+                "existing_logo": "Addition to the existing logo",
+                "font": "Numbers do not necessarily need to be in the MicrogrammaD font",
+                "color_palette": "Use the company's color palette: Blue (42,97,165), Grey (89,89,89), Orange (255,92,11), Black, White"
+            },
+            "color_preference": "Designer to choose colors to be used in the design",
+            "additional_information": "The updated logo should identify our company's milestone of 50 years without requiring a complete redesign."
+        },
+        "full_text": "title is '50 Years Edition Logo Update'; blurb is 'Our company is turning 50 years old in 2024. We would like to add a component to our existing logo highlighting '50 years'. Ideally, this would be an addition to the current logo, not a complete redesign, but we're open to some creativity! We would like to have this logo ready for an event on November 20th, so turnaround will be quick!'; price is '1st place: US$150, Total: US$150'; deadline is '10 Nov 2023 17:38:10 UTC'; requirements logo_text is '50 Years, Celebrating 50 years'; requirements target_market is ''; requirements industry is 'Construction'; requirements logo_style is 'Logo Update'; requirements design_characteristics existing_logo is 'Addition to the existing logo'; requirements design_characteristics font is 'Numbers do not necessarily need to be in the MicrogrammaD font'; requirements design_characteristics color_palette is 'Use the company's color palette: Blue (42,97,165), Grey (89,89,89), Orange (255,92,11), Black, White'; requirements color_preference is 'Designer to choose colors to be used in the design'; requirements additional_information is 'The updated logo should identify our company's milestone of 50 years without requiring a complete redesign.'"
+    },
+    {
+        "title": "City Cabinetmakers Logo Design",
+        "blurb": "Design a classic/classy logo for City Cabinetmakers. The logo can incorporate the letters 'CC' or other design elements.",
+        "price": "1st place: A$150, Total: A$150",
+        "deadline": "10 Nov 2023 17:29:13 UTC",
+        "requirements": {
+            "logo_text": "City Cabinetmakers",
+            "target_market": [],
+            "industry": "Cabinetmaking",
+            "logo_style": "Classic/Classy Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should have a classic and classy design. It can incorporate the letters 'CC' or other suitable design elements."
+        },
+        "full_text": "title is 'City Cabinetmakers Logo Design'; blurb is 'Design a classic/classy logo for City Cabinetmakers. The logo can incorporate the letters 'CC' or other design elements.'; price is '1st place: A$150, Total: A$150'; deadline is '10 Nov 2023 17:29:13 UTC'; requirements logo_text is 'City Cabinetmakers'; requirements target_market is ''; requirements industry is 'Cabinetmaking'; requirements logo_style is 'Classic/Classy Design'; requirements color_preference is 'Designer's choice'; requirements additional_information is 'The logo should have a classic and classy design. It can incorporate the letters 'CC' or other suitable design elements.'"
+    },
+    {
+        "title": "GIOA Logo Update",
+        "blurb": "Would like to see our current design classed up a bit. It is overly bold and focuses a lot on the eagle itself but the GIOA hasn\u2019t got much character and is just a footnote. Would like to see some different interpretations of how they work together.",
+        "price": "1st place: US$260, Participation payments x 4: US$10, Total: US$300",
+        "deadline": "10 Nov 2023 17:14:45 UTC",
+        "requirements": {
+            "logo_text": "GIOA",
+            "target_market": [],
+            "industry": "Not specified",
+            "logo_style": "Logo Update",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The goal is to class up the current design and provide more character to 'GIOA' to make it a more prominent part of the logo."
+        },
+        "full_text": "title is 'GIOA Logo Update'; blurb is 'Would like to see our current design classed up a bit. It is overly bold and focuses a lot on the eagle itself but the GIOA hasn\u2019t got much character and is just a footnote. Would like to see some different interpretations of how they work together.'; price is '1st place: US$260, Participation payments x 4: US$10, Total: US$300'; deadline is '10 Nov 2023 17:14:45 UTC'; requirements logo_text is 'GIOA'; requirements target_market is ''; requirements industry is 'Not specified'; requirements logo_style is 'Logo Update'; requirements color_preference is 'Designer's choice'; requirements additional_information is 'The goal is to class up the current design and provide more character to 'GIOA' to make it a more prominent part of the logo.'"
+    },
+    {
+        "title": "My Restoration Coach Logo Design",
+        "blurb": "I am a 35-year retired General Contractor who specialized in property restoration services for commercial property owners. I am an expert who will now teach and train other contractors to build, market, and service their own portfolios. I teach them to provide 'cost-effective building solutions,' which attracts large asset owners. Examples of some of the 17,000+ properties I manage in the United States are Fortune 500, Flagship Hotel Groups, Property Management Companies, Real Estate Investment Trusts, Private Equity Groups, Condo Associations, etc... So who are you gonna call when you need help? My Restoration Coach. Check out the website for my consulting company: Commercial Restoration Network - www.crnpros.com. My Restoration Coach will be dba (Doing Business As) under this entity.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 07:29:59 UTC",
+        "requirements": {
+            "logo_text": "My Restoration Coach",
+            "target_market": [
+                "Contractors in property restoration services, commercial property owners, large asset owners"
+            ],
+            "industry": "Property Restoration and Consulting",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should reflect expertise, training, and the ability to attract large asset owners in the property restoration field."
+        },
+        "full_text": "title is 'My Restoration Coach Logo Design'; blurb is 'I am a 35-year retired General Contractor who specialized in property restoration services for commercial property owners. I am an expert who will now teach and train other contractors to build, market, and service their own portfolios. I teach them to provide 'cost-effective building solutions,' which attracts large asset owners. Examples of some of the 17,000+ properties I manage in the United States are Fortune 500, Flagship Hotel Groups, Property Management Companies, Real Estate Investment Trusts, Private Equity Groups, Condo Associations, etc... So who are you gonna call when you need help? My Restoration Coach. Check out the website for my consulting company: Commercial Restoration Network - www.crnpros.com. My Restoration Coach will be dba (Doing Business As) under this entity.'; price is '1st place: US$150, Total: US$150'; deadline is '10 Nov 2023 07:29:59 UTC'; requirements logo_text is 'My Restoration Coach'; requirements target_market is 'Contractors in property restoration services, commercial property owners, large asset owners'; requirements industry is 'Property Restoration and Consulting'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Designer's choice'; requirements additional_information is 'The logo should reflect expertise, training, and the ability to attract large asset owners in the property restoration field.'"
+    },
+    {
+        "title": "Bubbles by Michel's Logo Design",
+        "blurb": "I am starting a new brand called 'Bubbles by Michel's'. It is going to be part of our Michel's Dry Cleaners brand. Bubbles by Michel's is going to be a self-service laundromat. Make the Bubbles by Michel's logo fun, and research how other self-service laundromats are branding.",
+        "price": "1st place: A$150, Total: A$150",
+        "deadline": "10 Nov 2023 06:23:28 UTC",
+        "requirements": {
+            "logo_text": "Bubbles by Michel's",
+            "target_market": [],
+            "industry": "Laundromat",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Customer's choice: #0054AA, #0677BA, #7BADD7, #CADEEF, #E8F1F8",
+            "additional_information": "The logo should be fun and in line with branding for self-service laundromats."
+        },
+        "full_text": "title is 'Bubbles by Michel's Logo Design'; blurb is 'I am starting a new brand called 'Bubbles by Michel's'. It is going to be part of our Michel's Dry Cleaners brand. Bubbles by Michel's is going to be a self-service laundromat. Make the Bubbles by Michel's logo fun, and research how other self-service laundromats are branding.'; price is '1st place: A$150, Total: A$150'; deadline is '10 Nov 2023 06:23:28 UTC'; requirements logo_text is 'Bubbles by Michel's'; requirements target_market is ''; requirements industry is 'Laundromat'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Customer's choice: #0054AA, #0677BA, #7BADD7, #CADEEF, #E8F1F8'; requirements additional_information is 'The logo should be fun and in line with branding for self-service laundromats.'"
+    },
+    {
+        "title": "Scottsdale Slingshots Logo Design",
+        "blurb": "Capture the essence of the thrilling Polaris Slingshot experience against the backdrop of Scottsdale's stunning desert landscape. Use a sunset, saguaro cactus, Camelback Mountain, and the State of Arizona background with the Slingshot in front. Create a 3-dimensional style look to convey adventure and freedom.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 04:01:38 UTC",
+        "requirements": {
+            "logo_text": "Scottsdale Slingshots",
+            "target_market": [
+                "Tourist"
+            ],
+            "logo_style": "Logo Design",
+            "design_characteristics": {
+                "color_palette": "Inspired by the desert with warm earthy tones, sandy beige, deep terracotta, and vibrant red",
+                "icon": "Sleek and stylized Polaris Slingshot in motion against a desert backdrop",
+                "desert_landscape_background": "Including saguaro cacti, Camelback Mountain, sunset or sunrise",
+                "text": "Modern and bold typeface",
+                "subtle_details": "Play of light and shadows for depth and dimension"
+            },
+            "color_preference": "Designer's choice",
+            "font_styles": "Western/Southwest/Desert Style Font",
+            "additional_information": "The logo should represent the thrill of the Slingshot ride and the unique beauty of the Arizona desert, targeting adventure seekers and tourists."
+        },
+        "full_text": "title is 'Scottsdale Slingshots Logo Design'; blurb is 'Capture the essence of the thrilling Polaris Slingshot experience against the backdrop of Scottsdale's stunning desert landscape. Use a sunset, saguaro cactus, Camelback Mountain, and the State of Arizona background with the Slingshot in front. Create a 3-dimensional style look to convey adventure and freedom.'; price is '1st place: US$150, Total: US$150'; deadline is '10 Nov 2023 04:01:38 UTC'; requirements logo_text is 'Scottsdale Slingshots'; requirements target_market is 'Tourist'; requirements logo_style is 'Logo Design'; requirements design_characteristics color_palette is 'Inspired by the desert with warm earthy tones, sandy beige, deep terracotta, and vibrant red'; requirements design_characteristics icon is 'Sleek and stylized Polaris Slingshot in motion against a desert backdrop'; requirements design_characteristics desert_landscape_background is 'Including saguaro cacti, Camelback Mountain, sunset or sunrise'; requirements design_characteristics text is 'Modern and bold typeface'; requirements design_characteristics subtle_details is 'Play of light and shadows for depth and dimension'; requirements color_preference is 'Designer's choice'; requirements font_styles is 'Western/Southwest/Desert Style Font'; requirements additional_information is 'The logo should represent the thrill of the Slingshot ride and the unique beauty of the Arizona desert, targeting adventure seekers and tourists.'"
+    },
+    {
+        "title": "Astro Sisters Podcast Logo Design",
+        "blurb": "Logo design for Astro Sisters, a podcast by two women about astrology.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 00:22:00 UTC",
+        "requirements": {
+            "logo_text": "Astro Sisters",
+            "target_market": [],
+            "industry": "Podcast",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should represent the essence of the Astro Sisters podcast, which is about astrology and hosted by two women."
+        },
+        "full_text": "title is 'Astro Sisters Podcast Logo Design'; blurb is 'Logo design for Astro Sisters, a podcast by two women about astrology.'; price is '1st place: US$150, Total: US$150'; deadline is '10 Nov 2023 00:22:00 UTC'; requirements logo_text is 'Astro Sisters'; requirements target_market is ''; requirements industry is 'Podcast'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Designer's choice'; requirements additional_information is 'The logo should represent the essence of the Astro Sisters podcast, which is about astrology and hosted by two women.'"
+    },
+    {
+        "title": "EngiFi Logo Design",
+        "blurb": "Logo for a high-level tech talent acquisition company named EngiFi, which specializes in locating and matching engineers with the right employers using machine learning. The design should communicate trustworthiness, specialization, engineering, and advanced technology. The use of the color blue is preferred.",
+        "price": "1st place: \u20ac110, Total: \u20ac110",
+        "deadline": "05 Nov 2023 22:40:03 UTC",
+        "requirements": {
+            "logo_text": "EngiFi",
+            "target_market": [
+                "Companies hiring engineers",
+                "Engineers"
+            ],
+            "industry": "Talent Acquisition",
+            "logo_style": "Pictorial/Combination Logo, Wordmark Logo",
+            "design_characteristics": {},
+            "color_preference": "Preference for the color blue",
+            "additional_information": "The logo should convey trustworthiness, specialization, and the use of advanced technology in talent acquisition for engineers."
+        },
+        "full_text": "title is 'EngiFi Logo Design'; blurb is 'Logo for a high-level tech talent acquisition company named EngiFi, which specializes in locating and matching engineers with the right employers using machine learning. The design should communicate trustworthiness, specialization, engineering, and advanced technology. The use of the color blue is preferred.'; price is '1st place: \u20ac110, Total: \u20ac110'; deadline is '05 Nov 2023 22:40:03 UTC'; requirements logo_text is 'EngiFi'; requirements target_market is 'Companies hiring engineers, Engineers'; requirements industry is 'Talent Acquisition'; requirements logo_style is 'Pictorial/Combination Logo, Wordmark Logo'; requirements color_preference is 'Preference for the color blue'; requirements additional_information is 'The logo should convey trustworthiness, specialization, and the use of advanced technology in talent acquisition for engineers.'"
+    },
+    {
+        "title": "Meadow Land Distillery Logo Design",
+        "blurb": "Need a corporate logo that reflects a new Whiskey Distillery Brand located in Eminence, Kentucky, USA. Kentucky means 'on the meadow' in Iroquoian, a Native American tribe. Meadow is also the name of my co-founder's infant daughter, who has overcome major health challenges and is now thriving. Potential inclusions could be that of a Buck (deer), a meadow, or an outdoor theme. Open to various design ideas.",
+        "price": "1st place: US$260, Participation payments x 3: US$30, Participation payments x 4: US$10, Total: US$390",
+        "deadline": "09 Nov 2023 22:23:10 UTC",
+        "requirements": {
+            "logo_text": "Meadow Land Distillery Eminence KY",
+            "target_market": [],
+            "industry": "Whiskey Distillery",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should capture the essence of the brand, reflecting Kentucky's 'on the meadow' meaning and paying homage to the co-founder's daughter. It can include elements like a Buck, meadow, or an outdoor theme."
+        },
+        "full_text": "title is 'Meadow Land Distillery Logo Design'; blurb is 'Need a corporate logo that reflects a new Whiskey Distillery Brand located in Eminence, Kentucky, USA. Kentucky means 'on the meadow' in Iroquoian, a Native American tribe. Meadow is also the name of my co-founder's infant daughter, who has overcome major health challenges and is now thriving. Potential inclusions could be that of a Buck (deer), a meadow, or an outdoor theme. Open to various design ideas.'; price is '1st place: US$260, Participation payments x 3: US$30, Participation payments x 4: US$10, Total: US$390'; deadline is '09 Nov 2023 22:23:10 UTC'; requirements logo_text is 'Meadow Land Distillery Eminence KY'; requirements target_market is ''; requirements industry is 'Whiskey Distillery'; requirements logo_style is 'Logo Design'; requirements color_preference is 'Designer's choice'; requirements additional_information is 'The logo should capture the essence of the brand, reflecting Kentucky's 'on the meadow' meaning and paying homage to the co-founder's daughter. It can include elements like a Buck, meadow, or an outdoor theme.'"
+    },
+    {
+        "title": "Beards & Whiskey Hard Rock Band Logo Design",
+        "blurb": "The hard rock band Beards & Whiskey is looking for a main brand logo/icon/wordmark that can be incorporated into all merchandise and album art. This needs to be a unique logo symbol that can stand alone without the name, and also be combined with the band name. The goal is to obtain a versatile logo that can be used in many different ways, with or without the name, and still be identifiable. Inspiration from band logos like Foo Fighters, Red Hot Chili Peppers, Soundgarden, and Nirvana is welcomed.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 11:59:46 UTC",
+        "requirements": {
+            "logo_text": "Beards & Whiskey",
+            "target_market": [
+                "Hard Rock, Alternative Rock, Grunge, 90's/2000's Metal Fans"
+            ],
+            "industry": "Music, Rock Band",
+            "logo_style": "Emblem Logo, Pictorial/Combination Logo",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should exude the attitude and style of a heavy hard rock band, inspired by bands like Motorhead, Soundgarden, Misfits, and Social Distortion. It should be highly identifiable and work well with or without the band name."
+        },
+        "full_text": "title is 'Beards & Whiskey Hard Rock Band Logo Design'; blurb is 'The hard rock band Beards & Whiskey is looking for a main brand logo/icon/wordmark that can be incorporated into all merchandise and album art. This needs to be a unique logo symbol that can stand alone without the name, and also be combined with the band name. The goal is to obtain a versatile logo that can be used in many different ways, with or without the name, and still be identifiable. Inspiration from band logos like Foo Fighters, Red Hot Chili Peppers, Soundgarden, and Nirvana is welcomed.'; price is '1st place: US$150, Total: US$150'; deadline is '10 Nov 2023 11:59:46 UTC'; requirements logo_text is 'Beards & Whiskey'; requirements target_market is 'Hard Rock, Alternative Rock, Grunge, 90's/2000's Metal Fans'; requirements industry is 'Music, Rock Band'; requirements logo_style is 'Emblem Logo, Pictorial/Combination Logo'; requirements color_preference is 'Designer's choice'; requirements additional_information is 'The logo should exude the attitude and style of a heavy hard rock band, inspired by bands like Motorhead, Soundgarden, Misfits, and Social Distortion. It should be highly identifiable and work well with or without the band name.'"
+    }
+]
